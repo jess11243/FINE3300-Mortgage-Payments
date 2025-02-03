@@ -1,2 +1,3 @@
 # FINE3300-Mortgage-Payments
-Assignment 1 Submission for FINE3300 - Mortgage Payments
+
+This assigment is meant to calculate mortgage payments for Canadian fixed-rate mortgages, while accomodating different payment frequencies and accounting for semi-annual compound interest rates, as standard in Canada (specified in the assignment). It supports monthly, semi-monthly (twice a month), bi-weekly (every two weeks), weekly, rapid (accelerated) bi-weekly, and rapid (accelerated) weekly payment schedules. The program accepts user inputs for the principal amount, interest rate (as a percentage), and amortization period (in years), then calculates payments using semi-annual compounding and displays all payment options rounded to the nearest cent. It handles both regular and accelerated payment schedules, making it a practical tool for comparing payment frequencies and understanding their impact on Canadian mortgages.
